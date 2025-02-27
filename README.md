@@ -8,7 +8,6 @@
 - 🔐 Specialized in **Offensive Security & Red Teaming**.
 - 🎓 **Cisco Certified Cybersecurity Engineer (CCEH)** at age 14.
 - 🌟 Ranked **top 96% in Egypt in cybersecurity** at age 14.
-- 🛠️ Former **Customer Support & QA Tester** at Pretador Team (Creators of Pretador OS).
 - 🔬 Always exploring new attack vectors, penetration testing techniques, and exploit development.
 
 ### 📚 What I'm Learning
