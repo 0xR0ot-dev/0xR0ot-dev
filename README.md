@@ -16,11 +16,7 @@
 - Deepening my knowledge in **exploitation, malware analysis, and ethical hacking**.
 - Constantly refining **penetration testing** methodologies.
 
-### 🔗 Connect with Me
 
-- **GitHub:** [https://github.com/Adhamsec]
-- **Twitter/X:** [https://x.com/RootFuzion]
-- **LinkedIn:** [www.linkedin.com/in/adham-mohamed-abd-el-kawi-0a821b324]
 
 ---
 
