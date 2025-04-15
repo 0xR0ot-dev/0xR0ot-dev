@@ -1,6 +1,6 @@
 # Hi, I'm 0xR0ot-dev!
 
-## 🔮 Cybersecurity Enthusiast | Red Teamer | Ethical Hacker
+## 🔮 Cybersecurity Enthusiast | Web&Network pentester | Ethical Hacker
 
 ### About Me
 
